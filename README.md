@@ -1,6 +1,6 @@
-# TrueLayer - Data Scientist - Take-Home Test
+# “How likely is a payment to be successful?”
 
-In this code test, I approached the problem of developing an ML model that can provide a probability of success for each payment.
+In this code, I approached the problem of developing an ML model that can provide a probability of success for each payment based on a provided dataset.
 
 I chose to display the three stages in a Jupyter Notebook to make it easier to show the code and results simultaneously, along with comments or explanations of the thought process at each stage.
 
